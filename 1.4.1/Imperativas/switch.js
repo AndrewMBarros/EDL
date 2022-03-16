@@ -8,7 +8,7 @@ switch(nome){
         console.log("Você tem o nome do Beatle Paul");
         break;
     case "George Harrison":
-        console.log("Você tem o nome do Beatle John");
+        console.log("Você tem o nome do Beatle George");
         break;
     case "Ringo Starr":
         console.log("Você tem o nome do Beatle Ringo");
